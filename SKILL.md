@@ -94,3 +94,11 @@ clawhub install AB-Agents-Vision-MiniMax
 ---
 
 **AB-Agents** 🦀
+
+## Related Skills
+
+📊 **[AB Agents Meter Reader](https://github.com/alexburrstudio/ab-agents-meter-reader)** — Read meter readings from photos (uses this skill for vision)
+
+---
+
+**AB-Agents** 🦀
